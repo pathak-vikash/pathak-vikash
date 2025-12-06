@@ -132,17 +132,9 @@ Build solutions that teams can **run, understand, and evolve with confidence.**
 </tr>
 </table>
 
-### 💻 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathak-vikash&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9" alt="Top Languages" />
-
 ### 🏆 GitHub Achievements
 
 <img src="https://github-profile-trophy.vercel.app/?username=pathak-vikash&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-
-### 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pathak-vikash&custom_title=Contribution%20Graph&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFFFFF&area_color=FF6B6B&area=true&hide_border=true" alt="Contribution Graph" />
 
 ### 📊 Profile Summary
 
