@@ -113,25 +113,6 @@ Build solutions that teams can **run, understand, and evolve with confidence.**
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pathak-vikash&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9&custom_title=Vikash's+GitHub+Stats" alt="GitHub Stats" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pathak-vikash&theme=radical&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4" alt="GitHub Streak" />
-
-</td>
-</tr>
-</table>
-
 ### 🏆 GitHub Achievements
 
 <img src="https://github-profile-trophy.vercel.app/?username=pathak-vikash&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
